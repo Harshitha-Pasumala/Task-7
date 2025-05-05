@@ -5,10 +5,10 @@ This project demonstrates the use of Support Vector Machines for binary classifi
 
 ## Key Features
 
-- Data normalization using `StandardScaler`
-- Training SVM classifiers with `linear` and `rbf` kernels
+- Data normalization using 'StandardScaler'
+- Training SVM classifiers with 'linear' and 'rbf' kernels
 - PCA-based 2D visualization of decision boundaries
-- Hyperparameter tuning using `GridSearchCV`
+- Hyperparameter tuning using 'GridSearchCV'
 - Model evaluation with accuracy, confusion matrix, and classification report
 - 5-fold cross-validation for performance assessment
 
@@ -19,11 +19,3 @@ This project demonstrates the use of Support Vector Machines for binary classifi
 - `pandas`
 - `matplotlib`
 - `seaborn`
-
-## Concepts Covered
-
-- Margin maximization
-- Kernel trick
-- Linear vs Non-linear classification
-- Hyperparameter tuning (C, gamma)
-- Cross-validation
