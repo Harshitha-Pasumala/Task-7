@@ -1,5 +1,5 @@
 # Task-7
-# 🧠 Support Vector Machines (SVM) Classification
+# Support Vector Machines (SVM) Classification
 
 This project demonstrates the use of Support Vector Machines for binary classification using both **linear** and **non-linear (RBF)** kernels on the **Breast Cancer** dataset.
 
